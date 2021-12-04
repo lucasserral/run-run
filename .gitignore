@@ -1,0 +1,7 @@
+# Ignore imgs
+*.png
+*.jpg
+*.jpeg
+
+# Ignore sprites folders
+sprites
